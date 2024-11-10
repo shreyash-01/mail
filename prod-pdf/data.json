@@ -1,0 +1,30 @@
+{
+	"advisorDetails":{
+		"name": "FINOME TECHNOLOGIES PRIVATE LIMITED",
+		"email": "csingh@altqube.com",
+		"sebiRegistration": "INA000018373"
+	},
+	"clientDetails": {
+		"name": "Gopesh Mittal",
+		"email": "mdesurkar@altqube.com",
+		"pan": "ALZPM0970H",
+		"age": "38 years"
+	},
+	"subscriptionDetails": {
+		"portfolioName": "AltQube BlueChip Portfolio",
+		"subscriptionStartDate" : "23 Oct, 2024",
+		"subscriptionFrequency": "Annually",
+		"subscriptionType": "Auto-renew",
+		"subscriptionFee": "7500"
+	},
+	"riskProfiling": {
+		"clientRiskProfile": "Low",
+		"portfolioVolatility": "High Volatility",
+		"investmentObjective": "Protect invested capital with very low chance of a loss (investment horizon - < 2 years)",
+		"annualIncome": "< 15 Lakhs",
+		"percentageIncomeRepayment": "> 50%",
+		"possibleOutcome": "10%, 18%, -12%",
+		"percentageTotalWeath": "5 - 15%",
+		"allInvestment": "Stocks"
+	}
+}
